@@ -4,7 +4,7 @@
 
 #### This is MY first page,which is used to learn and make some notes.
 
-### click [BUTTON ](BUTTON.md)to start my journey.
+### click <font size=10 >[BUTTON ](BUTTON.md)</font>to start my journey.
 
 ## Welcome to GitHub Pages
 
