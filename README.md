@@ -1,8 +1,8 @@
-# 童致远
+#                                                   童致远
 
-#### 用markdown制作个人网页
+#### This is MY first page,which is used to learn and make some note.
 
-
+### click [BUTTON ](my_thing/log1.md)to start my journey.
 
 ## Welcome to GitHub Pages
 
