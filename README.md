@@ -1,8 +1,10 @@
-#                                                   童致远
+# Welcome！
 
-#### This is MY first page,which is used to learn and make some note.
+## This is Vity-tong(童致远)
 
-### click [BUTTON ](my_thing/log1.md)to start my journey.
+#### This is MY first page,which is used to learn and make some notes.
+
+### click [BUTTON ](BUTTON.md)to start my journey.
 
 ## Welcome to GitHub Pages
 
