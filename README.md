@@ -1,6 +1,6 @@
 # Welcome！
 
-## This is Vity-tong(雷娇娇)
+## This is Vity-tong
 
 #### This is MY first page,which is used to learn and make some notes.
 
